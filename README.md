@@ -1,6 +1,6 @@
 # ml-snippets
 
-### ConvNet simples (multi-categoria): ###
+### ConvNet simples Multi-Categoria: ###
 
 ```python
 class CustomEarlyStopCallback(tf.keras.callbacks.Callback):
