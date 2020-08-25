@@ -1,5 +1,7 @@
 # ml-snippets
 
+Um conjunto de anotações sobre coisas comuns para usar em scaffold rápido de modelos.
+
 ### ConvNet simples Multi-Categoria: ###
 
 ```python
